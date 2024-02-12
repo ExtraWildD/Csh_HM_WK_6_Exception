@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Puhzd8kTCy2P9XKqLEJqR/sYd7Ed/vkSz2jeSlzVNEBEz1KZubAU6aDxBHGZ8fXDUKuR/xxC2U7B+78+NLLGJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\au10155\\Desktop\\Hm_Wk_Excep\\Hm_Wk_Exception\\Hm_Wk_Exception\\Hm_Wk_Exception.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nugetserver.rf.moskvich.ru/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

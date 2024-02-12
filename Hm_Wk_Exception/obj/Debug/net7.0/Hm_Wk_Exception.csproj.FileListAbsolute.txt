@@ -1,0 +1,15 @@
+C:\Users\au10155\Desktop\Hm_Wk_Excep\Hm_Wk_Exception\Hm_Wk_Exception\bin\Debug\net7.0\Hm_Wk_Exception.exe
+C:\Users\au10155\Desktop\Hm_Wk_Excep\Hm_Wk_Exception\Hm_Wk_Exception\bin\Debug\net7.0\Hm_Wk_Exception.deps.json
+C:\Users\au10155\Desktop\Hm_Wk_Excep\Hm_Wk_Exception\Hm_Wk_Exception\bin\Debug\net7.0\Hm_Wk_Exception.runtimeconfig.json
+C:\Users\au10155\Desktop\Hm_Wk_Excep\Hm_Wk_Exception\Hm_Wk_Exception\bin\Debug\net7.0\Hm_Wk_Exception.dll
+C:\Users\au10155\Desktop\Hm_Wk_Excep\Hm_Wk_Exception\Hm_Wk_Exception\bin\Debug\net7.0\Hm_Wk_Exception.pdb
+C:\Users\au10155\Desktop\Hm_Wk_Excep\Hm_Wk_Exception\Hm_Wk_Exception\obj\Debug\net7.0\Hm_Wk_Exception.csproj.AssemblyReference.cache
+C:\Users\au10155\Desktop\Hm_Wk_Excep\Hm_Wk_Exception\Hm_Wk_Exception\obj\Debug\net7.0\Hm_Wk_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\au10155\Desktop\Hm_Wk_Excep\Hm_Wk_Exception\Hm_Wk_Exception\obj\Debug\net7.0\Hm_Wk_Exception.AssemblyInfoInputs.cache
+C:\Users\au10155\Desktop\Hm_Wk_Excep\Hm_Wk_Exception\Hm_Wk_Exception\obj\Debug\net7.0\Hm_Wk_Exception.AssemblyInfo.cs
+C:\Users\au10155\Desktop\Hm_Wk_Excep\Hm_Wk_Exception\Hm_Wk_Exception\obj\Debug\net7.0\Hm_Wk_Exception.csproj.CoreCompileInputs.cache
+C:\Users\au10155\Desktop\Hm_Wk_Excep\Hm_Wk_Exception\Hm_Wk_Exception\obj\Debug\net7.0\Hm_Wk_Exception.dll
+C:\Users\au10155\Desktop\Hm_Wk_Excep\Hm_Wk_Exception\Hm_Wk_Exception\obj\Debug\net7.0\refint\Hm_Wk_Exception.dll
+C:\Users\au10155\Desktop\Hm_Wk_Excep\Hm_Wk_Exception\Hm_Wk_Exception\obj\Debug\net7.0\Hm_Wk_Exception.pdb
+C:\Users\au10155\Desktop\Hm_Wk_Excep\Hm_Wk_Exception\Hm_Wk_Exception\obj\Debug\net7.0\Hm_Wk_Exception.genruntimeconfig.cache
+C:\Users\au10155\Desktop\Hm_Wk_Excep\Hm_Wk_Exception\Hm_Wk_Exception\obj\Debug\net7.0\ref\Hm_Wk_Exception.dll
